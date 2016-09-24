@@ -90,6 +90,11 @@ Bootstrap3 and jQuery have to be included along with `{{ form.media }}`
 Release Notes
 -------------------------------
 
+###### v2.3.1
+
+* Add language option
+
+
 ###### v2.3
 
 * Updated bootstrap-datetimepicker.js to version 3.0
